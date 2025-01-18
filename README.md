@@ -1,3 +1,3 @@
 # AI
 for AI projects
-for AI & ML
+for AI & ML Projects
